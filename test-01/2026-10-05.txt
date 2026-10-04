@@ -1,0 +1,3 @@
+anchored_at 2026-10-05 KST
+complex test-01 / seq 6 / apt_asset_events
+0744a48935ffecea0155895763de0cf284e328e62459ad948980129e626aa443
